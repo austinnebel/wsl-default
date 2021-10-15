@@ -5,6 +5,10 @@
     "publisher": "austin-nebel",
     "icon": "resources/remote-wsl.png",
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/austinnebel/wsl-default"
+    },
     "engines": {
         "vscode": "^1.61.0"
     },

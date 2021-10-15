@@ -6,7 +6,7 @@ This extension will automatically switch to a WSL window if one is not already r
 
 ## Requirements
 
-(Remote - WSL Extension) [https://github.com/Microsoft/vscode-remote-release]
+[Remote - WSL Extension](https://github.com/Microsoft/vscode-remote-release)
 
 ## Known Issues
 
